@@ -23,7 +23,6 @@ int main() {
     if (n > 2) {
         largestPrime = n ;
     }
-
     std::cout << "Largest Prime Factor : " <<largestPrime ;
     return 0;
 }
